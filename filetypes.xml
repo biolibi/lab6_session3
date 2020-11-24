@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="dat" type="AndroidDataBinding" />
       <mapping ext="rar" type="CLASS" />
+      <removed_mapping ext="css" type="CSS" />
       <mapping pattern="passwd" type="PLAIN_TEXT" />
       <mapping pattern="Heroic_Demise.mp3" type="PLAIN_TEXT" />
       <mapping pattern="License" type="PLAIN_TEXT" />
